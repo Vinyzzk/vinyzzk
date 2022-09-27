@@ -1,7 +1,7 @@
 # Viny
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+```py
+class viny:
+   main_langs = "Python"
+  age = 21
 ```
