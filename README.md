@@ -2,6 +2,8 @@
 
 ```py
 class viny:
-   main_langs = "Python"
+   name = "Vinícius Oliveira"
    age = 21
+   main_langs = "Python"
+   studying_techs = ""
 ```
