@@ -2,8 +2,8 @@
 
 ```py
 class viny:
-   name = "Vinicius Oliveira"
-   age = 22
+   name = "Vinicius Vieira"
+   age = 23
    main_langs = "Python"
    main_skills = "API RESTful"
    studying_techs = ""
